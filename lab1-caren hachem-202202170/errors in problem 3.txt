@@ -1,6 +1,0 @@
-errors: System,in is not an object 
-'  ' is not a string 
-system should be capitalize
-Sytem.Out O in olut should be in lower case
-// to start a comment 
-main( String n ot static 
